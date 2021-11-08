@@ -1,3 +1,8 @@
+### A fork of win-detect-browsers that doesn't rely on win-version-info
+### Last merged 08/11/2021
+
+---
+
 # win-detect-browsers
 
 **Fast and native browser detection on Windows. Detects installed versions of [Beaker](https://beakerbrowser.com/), [Brave](https://brave.com/), [Chrome](https://www.google.com/chrome/), [Chromium](https://www.chromium.org/), [Firefox](https://www.mozilla.org/en-US/firefox/), [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer), [Maxthon](http://www.maxthon.com/), [Opera](https://www.opera.com/), [Safari](https://www.apple.com/safari/) and [Yandex](https://browser.yandex.com/).**
